@@ -1,8 +1,10 @@
 ### Hi I'm hansoo oh 👋
 <div>📫 SNS list </div>
-<a href="https://ohhansoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-009FD9?style=flat-square&logo=Thumbtack&logoColor=009FD9"/></a>
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=03C75A"/>
-<a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=000000"/></a>
+<a href="https://ohhansoo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-009FD9?style=flat-square&logo=Thumbtack&logoColor=009FD9"/></a>
+<img src="https://img.shields.io/badge/Tistory-009FD9?style=flat-square&logo=Thumbtack&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="https://blog.naver.com/zhdnrk124" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
  <div> ✨ GitHub stats </div>
 
