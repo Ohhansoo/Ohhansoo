@@ -5,7 +5,7 @@
 <a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=000000"/></a>
 
 
-  <div> ✨ GitHub stats </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohhansoo&show_icons=true&theme=radical)
 
 
