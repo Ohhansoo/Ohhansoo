@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<a href="https://ohhansoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#03C75A?style=social&logo=appveyor&logoColor=000000"/></a>
+<a href="https://ohhansoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Thumbtack-009FD9?style=social&logo=Thumbtack&logoColor=009FD9"/></a>
 <a href="https://blog.naver.com/zhdnrk124" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=03C75A"/></a>
-<a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=plastic&logo=appveyor&logoColor=000000"/>notion</a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=000000"/>notion</a>
 
 <!--
 **Ohhansoo/Ohhansoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
