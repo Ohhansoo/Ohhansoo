@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://ohhansoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#03C75A?style=social&logo=appveyor&logoColor=000000"/></a>
-<a href="https://blog.naver.com/zhdnrk124" target="_blank"><img src="https://img.shields.io/badge?style=social&logo=Naver&logoColor=03C75A"/></a>
+<a href="https://blog.naver.com/zhdnrk124" target="_blank"><img src="https://img.shields.io/badge/Naver?style=social&logo=Naver&logoColor=03C75A"/></a>
 <a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=plastic&logo=appveyor&logoColor=000000"/>notion</a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
