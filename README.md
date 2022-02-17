@@ -2,7 +2,7 @@
 <div>📫 SNS list </div>
 <a href="https://ohhansoo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-009FD9?style=flat-square&logo=Thumbtack&logoColor=white"/></a>
 <a href="https://blog.naver.com/zhdnrk124" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
+<a href="https://tidy-ship-234.notion.site/Hansoo-Oh-32e36f118afe43e7b2634f1c59865c37" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br><br>
 
  <div> ✨ GitHub stats </div>
 
